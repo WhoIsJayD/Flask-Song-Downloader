@@ -1,7 +1,3 @@
-Here's a README template for your GitHub repository:
-
----
-
 # Learning Project: Flask SpotDL Downloader
 
 This project is a learning exercise showcasing a Flask application that allows users to download songs using SpotDL.
